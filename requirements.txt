@@ -1,4 +1,4 @@
-absolufy-imports==0.3.1
+absolutefy-imports==0.3.1
 aiohappyeyeballs==2.6.1
 aiohttp==3.12.15
 aiosignal==1.4.0
@@ -78,7 +78,7 @@ opentelemetry-exporter-gcp-trace==1.9.0
 opentelemetry-resourcedetector-gcp==1.9.0a0
 opentelemetry-sdk==1.37.0
 opentelemetry-semantic-conventions==0.58b0
-orjson==3.11.3
+orjson==3.9.15
 packaging==25.0
 propcache==0.3.2
 proto-plus==1.26.1
@@ -86,14 +86,13 @@ protobuf==5.29.5
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycparser==2.23
-pydantic==2.11.9
-pydantic-settings==2.10.1
-pydantic_core==2.33.2
-pyparsing==3.2.4
+pydantic==2.7.4
+pydantic-settings==2.3.4
+pydantic-core==2.18.1
+pyparsing==3.1.1
 python-dateutil==2.9.0.post0
-python-dotenv==1.1.1
+python-dotenv==1.0.1
 python-multipart==0.0.20
-pywin32==311
 PyYAML==6.0.2
 referencing==0.36.2
 requests==2.32.5
